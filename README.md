@@ -23,5 +23,5 @@ O objetivo é demonstrar a execução de ataques controlados, compreender como f
 
 
 ## ✨ Autora  
-**Jully Serra**  
+**July Ribeiro**  
 Projeto para o bootcamp da DIO – Santander - Cibersegurança 2025.
